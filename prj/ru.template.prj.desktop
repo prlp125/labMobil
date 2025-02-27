@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.prj
+Exec=/usr/bin/ru.template.prj
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=Sensors;PushNotifications;RemovableMedia;UserDirs
+OrganizationName=ru.template
+ApplicationName=prj
+ExecDBus=/usr/bin/ru.template.prj
